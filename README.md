@@ -1,1 +1,2 @@
-# Task3
+SQL basics project using Superstore dataset
+
